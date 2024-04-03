@@ -12,3 +12,10 @@
     padding-left: 27px;
   }
 }
+@media screen and (max-width: 800px) {
+  .header__image {
+    max-width: 126px;
+    padding-left: 27px;
+    margin-top: 24px;
+  }
+}
