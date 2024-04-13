@@ -55,6 +55,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  margin-bottom: 0;
 }
 .profile__image {
   height: 120px;
